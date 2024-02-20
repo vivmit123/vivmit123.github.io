@@ -2,7 +2,7 @@
 ---
 title : Bio
 feed: show
-date : 15-04-2021
+date : 20-02-2024
 
 ---
 ![[Pasted image 20240219182911.png|400]]
